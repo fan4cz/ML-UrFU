@@ -5,7 +5,7 @@
 
 # Практика:
 * [Практика](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/02-Probablities_in_ML/practice/02-practice.ipynb)
-* [Запись практики](...)
+* [Запись практики](https://fiit.ktalk.ru/recordings/ra2GNXxHUcLbBnWJ1xJo)
 
 * [Домашка](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/02-Probablities_in_ML/hw/hw.ipynb)
 
