@@ -1,9 +1,9 @@
 # Лекции:
-* [Лекция]()
-* [Запись лекции]()
+* [Лекция](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/06-Ensembles1_RF/lecture/06-lecture.ipynb)
+* [Запись лекции](https://fiit.ktalk.ru/recordings/egLQn6MSXngY2gp5P7sv)
 
 # Практика:
-* [Практика]()
-* [Запись практики]()
+* [Практика](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/06-Ensembles1_RF/practice/06-practice.ipynb)
+* [Запись практики](https://fiit.ktalk.ru/recordings/Q9uzTeGeFdL0IZdiwMyW)
 
-* [Домашка]()
+* [Домашка](https://github.com/AlexanderZiyatdinov/ML-UrFU/blob/main/06-Ensembles1_RF/hw/hw.ipynb)
