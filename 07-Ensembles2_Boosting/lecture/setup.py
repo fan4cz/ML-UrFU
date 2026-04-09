@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeRegressor
@@ -158,7 +157,7 @@ def run_boosting_animation():
                         interval=150, repeat=False)
     plt.close()
     return HTML(ani.to_jshtml())
-=======
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeRegressor
@@ -318,4 +317,3 @@ def run_boosting_animation():
                         interval=150, repeat=False)
     plt.close()
     return HTML(ani.to_jshtml())
->>>>>>> fd826226a3b77e26123c5eddb7cd11b37fe0e573
