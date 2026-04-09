@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import torch
 import torch.nn as nn
 import numpy as np
@@ -53,7 +53,7 @@ def run_animate(func):
 
     # Отображение
     return HTML(ani.to_jshtml())
-=======
+
 import torch
 import torch.nn as nn
 import numpy as np
@@ -108,4 +108,3 @@ def run_animate(func):
 
     # Отображение
     return HTML(ani.to_jshtml())
->>>>>>> 02ba362e133e6c065d79e8433ee494ee786bfd4f
